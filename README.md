@@ -271,7 +271,7 @@ Framer Motion and React state cannot run in Server Components, but moving data f
 
 ---
 
-## Future Improvements
+## Future Scope
 
 - [ ] Supabase Auth for multi-user support with per-user progress
 - [ ] Course detail pages with lesson lists and individual completion tracking
